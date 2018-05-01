@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">All In One Videos</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="no_item_found">No item found!!</string>
+    <string name="no_fav_found">No favorite item found!!</string>
+    <string name="dev_by">Developed by:</string>
+    <string name="latest_video">Latest Videos</string>
+    <string name="all_video">All Videos</string>
+
+    <!-- other message -->
+    <string name="more_btn">More</string>
+    <string name="related_name">You may also like</string>
+    <string name="network_msg">No Network Connection!!!</string>
+    <string name="no_data_found">No data found!!</string>
+    <string name="share_video_msg">Hi I am Just Watched This Video</string>
+    <string name="shareapp_msg">Download this App from this link</string>
+    <string name="add_favorite_msg">Added to Favorite</string>
+    <string name="remove_favorite_msg">Removed from Favorite</string>
+    <string name="header_title">Amazing Video in your way</string>
+
+    <!--Drawer Menu -->
+    <string name="menu_allvideo">All Video</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_latest">Latest</string>
+    <string name="menu_category">Category</string>
+    <string name="menu_favorite">My Favorite</string>
+    <string name="menu_about">About Us</string>
+    <string name="menu_share">Share App</string>
+    <string name="menu_rate">Rate App</string>
+    <string name="menu_privacy">Privacy Policy</string>
+    <string name="menu_title">Communicate</string>
+
+    <!-- about us -->
+    <string name="version">Version</string>
+    <string name="author">Author</string>
+    <string name="company">Company</string>
+    <string name="email">Email</string>
+    <string name="website">Website</string>
+    <string name="contact">Contact</string>
+    <string name="about">About</string>
+
+    <!-- admob id -->
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string> <!-- your Banner admob id -->
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string> <!-- your admob Interstitial ad id -->
+
+    <!-- youtube -->
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="youtube_api_key">AIzaSyAYJwy6nzCFqgr5LtihRI3YuVBb_34aprw</string>
+    <string name="loading_video">Loading video</string>
+
+    <!--if you want rtl change value of isRTL to true else false-->
+    <string name="isRTL">false</string>
+
+</resources>
